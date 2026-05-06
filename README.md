@@ -4,7 +4,7 @@
 
 ## 特色
 - **雙北整合**：同時支援台北市 (blobbus) 與新北市 (ntpcbus) 的開放資料。
-- **中繼站架構**：使用 Google Apps Script (GAS) 作為 Proxy，繞過 TDX 複雜的認證，減輕 ESP32 負擔。
+- **中繼站架構**：使用 Google Apps Script (GAS) 作為 Proxy，減輕 ESP32 負擔。
 - **平滑倒數**：內建本地倒數引擎，即使在 API 更新間隔也會每秒跳動。
 - **自動化設定**：內建 WiFiManager，第一次連線可透過手機網頁設定 WiFi。
 - **雙語介面**：自動在中文與英文間切換顯示。
